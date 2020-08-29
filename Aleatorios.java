@@ -3,6 +3,7 @@ public class Aleatorios{
 		int alea;
 		alea = (int)(Math.random()*1000);
 		System.out.print(alea);
-		System.out.print("=  AlfrediHdz 29-ago-2020  =");
+		System.out.println("");
+		System.out.println("=  AlfrediHdz 29-ago-2020  =");
 	}
 }
