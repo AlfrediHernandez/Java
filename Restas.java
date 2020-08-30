@@ -11,7 +11,7 @@ public class Restas{
 		System.out.print("Ingrese b:	");
 			b = sc.nextInt();
 			r = a - b;
-			System.out.println("       --------");
+			System.out.println("            --------");
 			System.out.println("Resultado:	"+r);
 			System.out.println("                            ");
 			System.out.println("****************************");
