@@ -4,7 +4,7 @@ public class Tablas{
 		Scanner sc = new Scanner(System.in);
 		int tab,r;
 
-		system.out.println("Ingrese la tabla que desea ver:");
+		System.out.println("Ingrese la tabla que desea ver:");
 			tab = sc.nextInt();
 			for(int a=1; a<=9; a++){
 				r = tab * a;
