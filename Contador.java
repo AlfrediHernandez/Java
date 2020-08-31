@@ -6,7 +6,7 @@ public class Contador{
 		System.out.println("======================================");
 		System.out.println("=              CONTADORES            =");
 		System.out.println("======================================");
-		System.out.println("Ingrese un nuumero para el Contador:");
+		System.out.println("Ingrese un Numero para el Contador:");
 			cont = sc.nextInt();
 			for(int a=1; a<=cont; a++){
 				System.out.println("Contando...  "+a);
